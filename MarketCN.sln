@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSystem", "MarketSystem\MarketSystem.csproj", "{0C62B0BD-179C-4CA9-85E6-51520D69865C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketSystem", "MarketSystem\MarketSystem.csproj", "{0C62B0BD-179C-4CA9-85E6-51520D69865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{646C5158-18C9-44A1-BB5D-9B116FC35405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketManageSystem", "MarketManageSystem\MarketManageSystem.csproj", "{31D66873-2155-4C48-97C4-145FD5006D58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0C62B0BD-179C-4CA9-85E6-51520D69865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C62B0BD-179C-4CA9-85E6-51520D69865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C62B0BD-179C-4CA9-85E6-51520D69865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646C5158-18C9-44A1-BB5D-9B116FC35405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646C5158-18C9-44A1-BB5D-9B116FC35405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646C5158-18C9-44A1-BB5D-9B116FC35405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646C5158-18C9-44A1-BB5D-9B116FC35405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D66873-2155-4C48-97C4-145FD5006D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D66873-2155-4C48-97C4-145FD5006D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D66873-2155-4C48-97C4-145FD5006D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D66873-2155-4C48-97C4-145FD5006D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
